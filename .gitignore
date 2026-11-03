@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+models/
+results/
+figures/
+wandb/
+raw_tweets
+data/stanceosaurus/
+data/ez-stance/
+data/votestance/with_text/
+data/votestance/corpus.csv

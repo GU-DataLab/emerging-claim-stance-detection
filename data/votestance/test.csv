@@ -1,0 +1,151 @@
+claim_id,claim,tweet_id,match_label,stance_label
+1,Who you vote for is not publicly available.,1853564594200989696,No Match,
+1,Who you vote for is not publicly available.,1853559886258594304,No Match,
+2,There are two kinds of mail-in voting: absentee balloting and universal vote by mail. There is no evidence that mail-in ballots of any kind increase electoral fraud.,1849553665524105472,Match,Refute
+2,There are two kinds of mail-in voting: absentee balloting and universal vote by mail. There is no evidence that mail-in ballots of any kind increase electoral fraud.,1853845388945654016,Match,Refute
+3,Voters do NOT need an updated covid shot in order to vote in the upcoming presidential election.,1853581716322922752,No Match,
+3,Voters do NOT need an updated covid shot in order to vote in the upcoming presidential election.,1853548501256245760,No Match,
+4,Envelopes used for mail-in ballots in general elections DO NOT reveal party affiliation.,1852347423869308928,No Match,
+4,Envelopes used for mail-in ballots in general elections DO NOT reveal party affiliation.,1853107834419826688,No Match,
+5,It is illegal for people who are NOT U.S. citizens to vote in federal or state elections. Noncitizens who register to vote can lose the ability to ever become U.S. citizens.,1853548905192931584,Match,Support
+5,It is illegal for people who are NOT U.S. citizens to vote in federal or state elections. Noncitizens who register to vote can lose the ability to ever become U.S. citizens.,1853636247006146560,Match,Refute
+6,The Democrats are NOT involved in registering illegal voters and they are NOT ending voter ID requirements.,1850268074303426816,Match,Refute
+6,The Democrats are NOT involved in registering illegal voters and they are NOT ending voter ID requirements.,1849800631017513216,Match,Refute
+7,Using a Sharpie to file your election ballot won't invalidate your vote!,1853886796859691264,No Match,
+7,Using a Sharpie to file your election ballot won't invalidate your vote!,1853547648650969344,No Match,
+8,"Poll workers rarely mark ballots for legal review. If a ballot is unreadable by a machine, the voter is given a chance to correct it or it is set aside for manual review.",1852045373268808192,No Match,
+8,"Poll workers rarely mark ballots for legal review. If a ballot is unreadable by a machine, the voter is given a chance to correct it or it is set aside for manual review.",1851290419323171328,No Match,
+9,Biden's executive order on Promoting Access to Voting increases resources to existing eligible voters.,1853587002551149056,No Match,
+9,Biden's executive order on Promoting Access to Voting increases resources to existing eligible voters.,1851009260949496320,No Match,
+10,A 1996 U.S. law makes it illegal for noncitizens to vote in federal elections.,1849914573769318912,Match,Support
+10,A 1996 U.S. law makes it illegal for noncitizens to vote in federal elections.,1852838961724739584,Match,Refute
+11,"Many states do not have definitive results on election night, regardless of when victory projections are made.",1853566777072165376,Match,Support
+11,"Many states do not have definitive results on election night, regardless of when victory projections are made.",1853842386499072000,Match,Support
+12,A crease through a candidate's name on a ballot will not invalidate your vote.,1852136380236796416,No Match,
+12,A crease through a candidate's name on a ballot will not invalidate your vote.,1852388304064524544,No Match,
+13,The Democrats did not import illegal immigrants to vote,1853948195753120000,Match,Refute
+13,The Democrats did not import illegal immigrants to vote,1852753013393203712,Match,Refute
+14,Illegal immigrants are not eligible to vote in the US Presidential election.,1852335589489860608,Match,Refute
+14,Illegal immigrants are not eligible to vote in the US Presidential election.,1849960764771271168,Match,Refute
+15,"Videos of mail-in ballots in Bucks County, PA. being ripped up are FAKE. This has been verified by local Republican and Democratic election officials.",1849596925575663872,Match,Refute
+15,"Videos of mail-in ballots in Bucks County, PA. being ripped up are FAKE. This has been verified by local Republican and Democratic election officials.",1849810202679267584,Match,Support
+16,Whitfield County’s Board of Elections said there were no problems with the county’s voting machines. Poll workers helped voters when issues arose with printed ballots.,1853940647037710848,No Match,
+16,Whitfield County’s Board of Elections said there were no problems with the county’s voting machines. Poll workers helped voters when issues arose with printed ballots.,1853872499840131328,No Match,
+17,Available data shows that non-citizen voting is rare.,1852347923176002048,No Match,
+17,Available data shows that non-citizen voting is rare.,1853285160705561088,Match,Support
+18,Early voting errors in 2020 were similar to previous elections since 2008.,1852532316331237632,Match,Neutral
+18,Early voting errors in 2020 were similar to previous elections since 2008.,1853563883899769088,Match,Neutral
+19,Many states do not allow counting votes until after the polls close.,1849785107353153536,Match,Refute
+19,Many states do not allow counting votes until after the polls close.,1853932352616968448,No Match,
+20,Trump and Vance do appear on Oregon's general election ballot. They are absent from Oregon's voter pamphlet because the Trump campaign did not submit a statement to appear in the pamphlet.,1852175291701141760,No Match,
+20,Trump and Vance do appear on Oregon's general election ballot. They are absent from Oregon's voter pamphlet because the Trump campaign did not submit a statement to appear in the pamphlet.,1852164480886804992,No Match,
+21,"North Carolina unanimously and publicly approved bipartisan changes to simplify in-person and mail voting in counties affected by Hurricane Helene, applying equally to all voters, regardless of party affiliation.",1849582137982300416,Match,Support
+21,"North Carolina unanimously and publicly approved bipartisan changes to simplify in-person and mail voting in counties affected by Hurricane Helene, applying equally to all voters, regardless of party affiliation.",1850938940116857088,No Match,
+22,USPS does not delay election mail even if there is insufficient postage.,1852347423869308928,Match,Refute
+22,USPS does not delay election mail even if there is insufficient postage.,1851388510705484032,Match,Refute
+23,"Trump is legally allowed to vote in Florida despite his felony convictions, as he has not been sentenced yet.",1853870409785171968,Match,Refute
+23,"Trump is legally allowed to vote in Florida despite his felony convictions, as he has not been sentenced yet.",1852854566561440256,Match,Refute
+24,"In Shelby County, Tennessee, the touch screen machines are sensitive. The Election Commissioner suggests that the preccint have voters use styluses.",1852486498525786368,No Match,
+24,"In Shelby County, Tennessee, the touch screen machines are sensitive. The Election Commissioner suggests that the preccint have voters use styluses.",1852331982010585600,No Match,
+25,Voting doesn’t increase your chances of being picked for jury duty.,1853500578539692544,No Match,
+25,Voting doesn’t increase your chances of being picked for jury duty.,1850011057948881408,No Match,
+26,The Dominion Voting Systems will operate in Florida this election.,1853581435753377792,No Match,
+26,The Dominion Voting Systems will operate in Florida this election.,1853465881050784000,Match,Neutral
+27,"The ballot scanner in an early voting location in Schaumburg, Illinois, was temporarily down on Oct. 21st. It was restored by 2 p.m. the same day and ballots were then processed as normal.",1852498285828686080,No Match,
+27,"The ballot scanner in an early voting location in Schaumburg, Illinois, was temporarily down on Oct. 21st. It was restored by 2 p.m. the same day and ballots were then processed as normal.",1851262819972628736,No Match,
+28,"In 36 states, voters are required or requested to present some form of identification at the polls. Some state laws are stricter, requiring photo IDs; other states are laxer, accepting bank statements or utility bills as proof of identity.",1849569329198792960,Match,Refute
+28,"In 36 states, voters are required or requested to present some form of identification at the polls. Some state laws are stricter, requiring photo IDs; other states are laxer, accepting bank statements or utility bills as proof of identity.",1851061084632829952,Match,Neutral
+29,"It is perfectly legal for US citizens living outside of the country to vote in federal elections. There is no evidence that Democrats are encouraging overseas, non-citizen individuals to vote.",1852850687291314176,Match,Refute
+29,"It is perfectly legal for US citizens living outside of the country to vote in federal elections. There is no evidence that Democrats are encouraging overseas, non-citizen individuals to vote.",1849105481056337920,Match,Support
+31,"Increased absentee voting rates reflect expanded voting access, not election fraud.",1852702588900172032,Match,Support
+31,"Increased absentee voting rates reflect expanded voting access, not election fraud.",1853569775793815808,No Match,
+32,"Delays in election results are due to thorough processes for counting absentee & mail-in ballots, not fraud. Historically, final results often take days. Fraud is extremely rare.",1853566777072165376,Match,Neutral
+32,"Delays in election results are due to thorough processes for counting absentee & mail-in ballots, not fraud. Historically, final results often take days. Fraud is extremely rare.",1853527470559125760,Match,Refute
+33,"There is no evidence of thousands of votes being cast fraudulently on behalf of dead voters. Voter impersonation is illegal, and experts say this type of voter fraud is extremely rare.",1850317568541634816,Match,Refute
+33,"There is no evidence of thousands of votes being cast fraudulently on behalf of dead voters. Voter impersonation is illegal, and experts say this type of voter fraud is extremely rare.",1850229595653730816,Match,Refute
+34,"Only a US citizen can vote in presidential elections, and voters must swear under penalty of perjury that they are eligible to cast a ballot.",1853548905192931584,Match,Support
+34,"Only a US citizen can vote in presidential elections, and voters must swear under penalty of perjury that they are eligible to cast a ballot.",1852385500855673344,Match,Refute
+35,"Fourteen states and Washington, D.C., require no identification to vote at the polls. These states use other methods, such as signature matching, to verify voters’ identities.",1853197231807143936,Match,Refute
+35,"Fourteen states and Washington, D.C., require no identification to vote at the polls. These states use other methods, such as signature matching, to verify voters’ identities.",1853480760705175808,Match,Neutral
+36,You cannot change your vote after your ballot has been processed.,1852388304064524544,No Match,
+36,You cannot change your vote after your ballot has been processed.,1853881874919112704,Match,Refute
+37,"Active military service members receive absentee ballots from state election offices, not the Pentagon.",1853095587589304576,Match,Refute
+37,"Active military service members receive absentee ballots from state election offices, not the Pentagon.",1853047657926676736,Match,Refute
+38,"Nationwide, 48 states have moved to voting systems with a paper trail.  Louisiana and Texas are the only 2 states that have some counties without paper trails.",1852069247985274880,Match,Neutral
+38,"Nationwide, 48 states have moved to voting systems with a paper trail.  Louisiana and Texas are the only 2 states that have some counties without paper trails.",1849117615488160000,No Match,
+39,"None of the bomb threats at polling locations in four battleground states - Georgia, Michigan, Arizona and Wisconsin - have been determined to be credible according to the FBI. Threats have been linked to Russia.",1853849568389054720,Match,Support
+39,"None of the bomb threats at polling locations in four battleground states - Georgia, Michigan, Arizona and Wisconsin - have been determined to be credible according to the FBI. Threats have been linked to Russia.",1853872554437672960,Match,Neutral
+40,The FBI DID NOT state that Americans should “vote remotely” due to the high terror threat at polling stations.,1851474752851828992,No Match,
+40,The FBI DID NOT state that Americans should “vote remotely” due to the high terror threat at polling stations.,1850206754748981760,Match,Refute
+41,"Incideiary devices were placed in ballot boxes in Portland, OR and Vacouver, WA. In Portland only 3 ballots were damaged. In Vancouver, WA, the fire suppressant system in the ballot box failed so hundreds of ballots were burned.",1851173523433119744,Match,Support
+41,"Incideiary devices were placed in ballot boxes in Portland, OR and Vacouver, WA. In Portland only 3 ballots were damaged. In Vancouver, WA, the fire suppressant system in the ballot box failed so hundreds of ballots were burned.",1851025264542957568,Match,Support
+42,The 2020 elections were the most secure in American history. Trump did not lose the 2020 elections due to election fraud. He lost the election because Biden had more electoral votes.,,Match,Refute
+42,The 2020 elections were the most secure in American history. Trump did not lose the 2020 elections due to election fraud. He lost the election because Biden had more electoral votes.,1849898338470035712,Match,Refute
+43,"Claims that two million new voters registered without ID in Arizona, Texas and Pennsylvania are false. The correct number of new registrants across the three states is 200,000, regardless of identification type.",1853441760434753536,Match,Refute
+43,"Claims that two million new voters registered without ID in Arizona, Texas and Pennsylvania are false. The correct number of new registrants across the three states is 200,000, regardless of identification type.",1852901046617870592,No Match,
+44,Russian actors were behind a video falsely depicting mail-in ballots for Trump being destroyed in Pennsylvania.,1850076862459883776,Match,Support
+44,Russian actors were behind a video falsely depicting mail-in ballots for Trump being destroyed in Pennsylvania.,1850128122555068672,Match,Support
+45,"This year, Lancaster County, PA has an estimated 44,000 Amish residents, with ~17,000 eligible voters.",1853463784687390720,Match,Support
+45,"This year, Lancaster County, PA has an estimated 44,000 Amish residents, with ~17,000 eligible voters.",1852103277888111104,Match,Refute
+46,"Some states that received a large number of mail-in ballots do not begin counting until after the polls close will not have election results available on election day, this is expected.",1853110530577146368,Match,Refute
+46,"Some states that received a large number of mail-in ballots do not begin counting until after the polls close will not have election results available on election day, this is expected.",1853570411122118656,Match,Support
+47,"There were not more votes than voters. In the 2020 general election of the 6,945,045 registered voters in Pennsylvania, 6,915,283 casted a vote in the presidential election.",1849266882911600640,Match,Refute
+47,"There were not more votes than voters. In the 2020 general election of the 6,945,045 registered voters in Pennsylvania, 6,915,283 casted a vote in the presidential election.",1853913324854939648,No Match,
+48,Ballots will not be disqualified if poll workers write on them.,1851451620963344896,No Match,
+48,Ballots will not be disqualified if poll workers write on them.,1853945582408372480,Match,Neutral
+49,The list of registered voters in Michigan includes inactive registrations that are scheduled to be deleted in a timeframe that aligns with federal regulation.,1849145976357040640,Match,Refute
+49,The list of registered voters in Michigan includes inactive registrations that are scheduled to be deleted in a timeframe that aligns with federal regulation.,1851619985111568640,No Match,
+50,"Residents of Puerto Rico are U.S. citizens, but they do not vote in presidential general elections because US territories do not have Electoral College votes.",1853566863004815616,Match,Refute
+50,"Residents of Puerto Rico are U.S. citizens, but they do not vote in presidential general elections because US territories do not have Electoral College votes.",1852385500855673344,Match,Support
+51,Federal law requires first-time voters to show ID when requesting mail ballots. Some states have additional ID requirements for voters mailing in ballots.,1850390291565424640,Match,Refute
+51,Federal law requires first-time voters to show ID when requesting mail ballots. Some states have additional ID requirements for voters mailing in ballots.,1852447202485948672,Match,Refute
+52,Minnesota law does not restrict political candidates from helping voters in need of assistance. Tim Walz was allowed to help his son vote.,1849578247710970368,No Match,
+52,Minnesota law does not restrict political candidates from helping voters in need of assistance. Tim Walz was allowed to help his son vote.,1853539259996623360,No Match,
+53,State election officials are required by federal law to maintain accurate voter registration lists and regularly clear them of voters who may be ineligible for any reason.,1853096127148486912,Match,Refute
+53,State election officials are required by federal law to maintain accurate voter registration lists and regularly clear them of voters who may be ineligible for any reason.,1850281868928729344,No Match,
+54,Canadian citizens are not allowed to vote in the US presidential election.,1852385500855673344,No Match,
+54,Canadian citizens are not allowed to vote in the US presidential election.,1852147757706023424,Match,Refute
+55,Local boards of elections in Texas decide whether to provide prepaid return envelopes for mail-in ballots; the state does not have prepaid postage for all election materials.,1853549391220518912,No Match,
+55,Local boards of elections in Texas decide whether to provide prepaid return envelopes for mail-in ballots; the state does not have prepaid postage for all election materials.,1852427565819933184,No Match,
+56,Biden's Executive Order 14019 promotes voter registration and participation; it does not direct federal agencies to collect ballots or harvest votes.,1851373185939448320,No Match,
+56,Biden's Executive Order 14019 promotes voter registration and participation; it does not direct federal agencies to collect ballots or harvest votes.,1853524117456118016,No Match,
+57,"Election experts confirm that Maricopa County, AZ can process 20,000 registrations, despite an unsupported claim that a group dropped them off to “inject chaos” into the 2024 election.",1853421771216544000,Match,Refute
+57,"Election experts confirm that Maricopa County, AZ can process 20,000 registrations, despite an unsupported claim that a group dropped them off to “inject chaos” into the 2024 election.",1853424519454572800,Match,Refute
+58,The Nevada Supreme Court upheld a rule allowing mail-in ballots without a visible postmark to be counted if received within three days after Election Day. There is no evidence that this ruling will allow election officials to manufacture ballots in favor of either party. It is illegal to fabricate votes.,1851071489333997568,Match,Refute
+58,The Nevada Supreme Court upheld a rule allowing mail-in ballots without a visible postmark to be counted if received within three days after Election Day. There is no evidence that this ruling will allow election officials to manufacture ballots in favor of either party. It is illegal to fabricate votes.,1851051436064317696,Match,Neutral
+59,"All states confirm voter eligibility through some verification method, and those with unverified eligibility receive a provisional ballot to be confirmed after polls close.",1849522475509420288,Match,Support
+59,"All states confirm voter eligibility through some verification method, and those with unverified eligibility receive a provisional ballot to be confirmed after polls close.",1849520624848470016,Match,Support
+60,Claims that ballots in Ohio are showing Trump's name as mispelled are false. The Ohio Board of Elections has not received any such complaints about Trump's name being misspelled.,1852168536614965760,Match,Refute
+60,Claims that ballots in Ohio are showing Trump's name as mispelled are false. The Ohio Board of Elections has not received any such complaints about Trump's name being misspelled.,1852345190033277184,Match,Refute
+61,"There were no ballot mules dropping large amount of ballots in PA. The man in a viral video in Northampton County, PA is a postal worker doing his job and dropping off ballots.",1852020820920459264,Match,Neutral
+61,"There were no ballot mules dropping large amount of ballots in PA. The man in a viral video in Northampton County, PA is a postal worker doing his job and dropping off ballots.",1851628948825760256,No Match,
+62,"Turnout the Vote, a progressive voting advocacy group, does not pay people to register or cast a vote.  Federal law prohibits payments for voting, abstaining, or voting for a specific candidate.",1850151357434437888,No Match,
+62,"Turnout the Vote, a progressive voting advocacy group, does not pay people to register or cast a vote.  Federal law prohibits payments for voting, abstaining, or voting for a specific candidate.",1853839956818509824,No Match,
+63,You don’t have to vote for the party you are registered with in the general election.,1853839956818509824,No Match,
+63,You don’t have to vote for the party you are registered with in the general election.,1853834753847308544,No Match,
+31,"Increased absentee voting rates reflect expanded voting access, not election fraud.",1852898950208176384,No Match,
+40,The FBI DID NOT state that Americans should “vote remotely” due to the high terror threat at polling stations.,,Match,Support
+5,It is illegal for people who are NOT U.S. citizens to vote in federal or state elections. Noncitizens who register to vote can lose the ability to ever become U.S. citizens.,1853936808423551232,No Match,
+37,"Active military service members receive absentee ballots from state election offices, not the Pentagon.",1852897656093155328,Match,Refute
+8,"Poll workers rarely mark ballots for legal review. If a ballot is unreadable by a machine, the voter is given a chance to correct it or it is set aside for manual review.",1849169399443280384,No Match,
+59,"All states confirm voter eligibility through some verification method, and those with unverified eligibility receive a provisional ballot to be confirmed after polls close.",1853512830126858496,No Match,
+61,"There were no ballot mules dropping large amount of ballots in PA. The man in a viral video in Northampton County, PA is a postal worker doing his job and dropping off ballots.",1851600652348117504,Match,Refute
+41,"Incideiary devices were placed in ballot boxes in Portland, OR and Vacouver, WA. In Portland only 3 ballots were damaged. In Vancouver, WA, the fire suppressant system in the ballot box failed so hundreds of ballots were burned.",1850897894473117952,Match,Support
+56,Biden's Executive Order 14019 promotes voter registration and participation; it does not direct federal agencies to collect ballots or harvest votes.,1849828988878753792,No Match,
+6,The Democrats are NOT involved in registering illegal voters and they are NOT ending voter ID requirements.,1851242368155943424,Match,Refute
+58,The Nevada Supreme Court upheld a rule allowing mail-in ballots without a visible postmark to be counted if received within three days after Election Day. There is no evidence that this ruling will allow election officials to manufacture ballots in favor of either party. It is illegal to fabricate votes.,1851115744605716736,Match,Neutral
+35,"Fourteen states and Washington, D.C., require no identification to vote at the polls. These states use other methods, such as signature matching, to verify voters’ identities.",1850268793328783872,Match,Support
+46,"Some states that received a large number of mail-in ballots do not begin counting until after the polls close will not have election results available on election day, this is expected.",1851084696689525248,Match,Refute
+24,"In Shelby County, Tennessee, the touch screen machines are sensitive. The Election Commissioner suggests that the preccint have voters use styluses.",1853801447663571200,No Match,
+54,Canadian citizens are not allowed to vote in the US presidential election.,1851078806120878336,No Match,
+60,Claims that ballots in Ohio are showing Trump's name as mispelled are false. The Ohio Board of Elections has not received any such complaints about Trump's name being misspelled.,1852755266212958464,Match,Support
+23,"Trump is legally allowed to vote in Florida despite his felony convictions, as he has not been sentenced yet.",1853852844824428800,Match,Neutral
+42,The 2020 elections were the most secure in American history. Trump did not lose the 2020 elections due to election fraud. He lost the election because Biden had more electoral votes.,1853428353920844032,Match,Neutral
+38,"Nationwide, 48 states have moved to voting systems with a paper trail.  Louisiana and Texas are the only 2 states that have some counties without paper trails.",1853808234202591232,Match,Refute
+7,Using a Sharpie to file your election ballot won't invalidate your vote!,1851605016546795520,No Match,
+2,There are two kinds of mail-in voting: absentee balloting and universal vote by mail. There is no evidence that mail-in ballots of any kind increase electoral fraud,1854242799186768128,No Match,
+2,There are two kinds of mail-in voting: absentee balloting and universal vote by mail. There is no evidence that mail-in ballots of any kind increase electoral fraud,1851400511146377472,No Match,
+2,There are two kinds of mail-in voting: absentee balloting and universal vote by mail. There is no evidence that mail-in ballots of any kind increase electoral fraud.,1851366265689976832,No Match,
+2,There are two kinds of mail-in voting: absentee balloting and universal vote by mail. There is no evidence that mail-in ballots of any kind increase electoral fraud.,1853861241510309888,No Match,
+2,There are two kinds of mail-in voting: absentee balloting and universal vote by mail.,1850985256133992448,No Match,
+2,There are two kinds of mail-in voting: absentee balloting and universal vote by mail. There is no evidence that mail-in ballots of any kind increase electoral fraud.,1850713603277521152,No Match,
